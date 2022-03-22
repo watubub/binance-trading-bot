@@ -1,6 +1,6 @@
 # Binance Trading Bot
 
-This bot trades between Ethereum and USDT on the Binance platform. It uses the RSI indicator by looking at the last 14 one-minute candles. Although this code effectively uses websockets, the trading strategy is very rudimentary. If you intend on using this code to trade in this market, I'd recommend you look into further trading strategies or, at the very least, add a stop-loss.
+This bot trades between Ethereum and USDT on the Binance platform. It uses the RSI indicator by looking at the last 14 one-minute candles and trades at the 30/70 thresholds. Although this code effectively uses websockets, the trading strategy is very rudimentary. If you intend on using this code to trade in this market, I'd recommend you look into further trading strategies or, at the very least, add a stop-loss.
 
 ## Requirements
 
